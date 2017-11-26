@@ -29,7 +29,7 @@ Your coding test assignment and goals are:
 5. Deploy your application to [Heroku](https://heroku.com)
 6. Send your GitHub and Heroku links to [Yunoia team](mailto:admin@protagonist.gg)
 
-Should you have any question or ideas how we can improve your assignment - fell free to create an [issue](https://github.com/Yunoia/fe-developer-assignment/issues/new)
+Should you have any question or ideas how we can improve this assignment - fell free to create an [issue](https://github.com/Yunoia/fe-developer-assignment/issues/new)
 
 Good Luck!
    
