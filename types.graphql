@@ -1,0 +1,33 @@
+# added by email-password template: (please uncomment)
+type User @model {
+    id: ID! @isUnique # read-only (managed by Graphcool)
+
+    # Optional system fields (remove if not needed):
+    createdAt: DateTime! # read-only (managed by Graphcool)
+    updatedAt: DateTime! # read-only (managed by Graphcool)
+
+    # other template fields
+    email: String @isUnique
+    password: String
+
+    # custom fields
+    name: String!
+    posts: [Post!]! @relation(name: "UsersPosts")
+}
+
+
+type Post @model {
+    # Required system field:
+    id: ID! @isUnique # read-only (managed by Graphcool)
+
+    # Optional system fields (remove if not needed):
+    createdAt: DateTime! # read-only (managed by Graphcool)
+    updatedAt: DateTime! # read-only (managed by Graphcool)
+
+    description: String
+    imageUrl: String!
+    name: String! @migrationValue(value: "No Name")
+    author: User! @relation(name: "UsersPosts")
+}
+
+

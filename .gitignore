@@ -1,0 +1,7 @@
+.idea
+node_modules
+.envrc
+.graphcoolrc
+docker-compose.yml
+graphql.config.json
+graphql.schema.json
