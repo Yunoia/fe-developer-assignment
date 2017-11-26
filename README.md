@@ -9,7 +9,7 @@ Your coding test assignment and goals are:
 
 1. Deploy this project to [graphcool](https://www.graph.cool/) and use it as your GraphQL endpoint
     * Feel Free to expand it with additional functionality
-    * Found a bug? Feel free to create Pull Request - Bonus points are guaranteed ;)
+    * Found a bug? Feel free to create [Pull Request](https://github.com/Yunoia/fe-developer-assignment/compare) - Bonus points are guaranteed ;)
     * You can find our example deployment [here](https://api.graph.cool/simple/v1/cjah9azoi0xja0149nl4uptls)
 2. Implement Single Page Application with next User Scenarios:
     * As a Guest I can view all posts
@@ -29,7 +29,7 @@ Your coding test assignment and goals are:
 5. Deploy your application to [Heroku](https://heroku.com)
 6. Send your GitHub and Heroku links to [Yunoia team](mailto:admin@protagonist.gg)
 
-Should you have any question or ideas how we can improve your assignment - fell free to create an issue
+Should you have any question or ideas how we can improve your assignment - fell free to create an [issue](https://github.com/Yunoia/fe-developer-assignment/issues/new)
 
 Good Luck!
    
