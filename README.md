@@ -12,7 +12,7 @@ Your coding test assignment and goals are:
     * Found a bug? Feel free to create [Pull Request](https://github.com/Yunoia/fe-developer-assignment/compare) - Bonus points are guaranteed ;)
     * You can find our example deployment [here](https://api.graph.cool/simple/v1/cjah9azoi0xja0149nl4uptls)
 2. Implement Single Page Application with next User Scenarios:
-    * As a Guest I can view all posts
+    * As a Guest I can view all posts with pagination
     * As a Guest I can find posts by **name**
     * As a Guest I can sort all posts by **created** ASC/DESC
     * As a Guest I click on a post to see full information
@@ -21,13 +21,13 @@ Your coding test assignment and goals are:
     * As an Authorized User i can create Post
     * As an Authorized User i can update my Posts
     * As an Authorized User i should see my **name** in application
-    * Pagination / Infinity loading for bonus points 
-    
-3. The only requirement is to use React and Apollo, so feel free to unleash you creativity and create a solution you will be proud of :)
-4. Upload your source code to [GitHub](http://github.com)
+    * Infinity loading for bonus points 
+3. One of the main goals is to minimize the number of api calls
+4. The only technological requirement is to use React and Apollo, so feel free to unleash you creativity and create a solution you will be proud of :)
+5. Upload your source code to [GitHub](http://github.com)
     * Don't forget about README with instruction how to run/ set up an application
-5. Deploy your application to [Heroku](https://heroku.com)
-6. Send your GitHub and Heroku links to [Yunoia team](mailto:admin@protagonist.gg)
+6. Deploy your application to [Heroku](https://heroku.com)
+7. Send your GitHub and Heroku links to [Yunoia team](mailto:admin@protagonist.gg)
 
 Should you have any question or ideas how we can improve this assignment - fell free to create an [issue](https://github.com/Yunoia/fe-developer-assignment/issues/new)
 
