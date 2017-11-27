@@ -1,15 +1,20 @@
-# Front-End developer assignment
+![alt text][logo]
 
-Congratulations! You have just passed our first round of interview and you are interested in our project. This is awesome! Yet this is just the beginning ;) We care a lot about our people and we do our best to make sure everyone joining the team is raising the bar.
-During your interviews rounds at Protagonist we evaluate your personal values, technical skills, team spirit, etc. Our goal is to hire people that are better than us! Yes you read this correctly! We want to make sure that every new hire is better than the rest of the team. Because this is the only way we as team can keep improving and learning from each other. Everyone in our team wants to keep building great stuff he can be proud of! Are you one of us? :-)
+[logo]: https://www.yunoia.com/social-logo.png "Yunoia"
+
+# Front-End developer assignment
+____
+Congratulations! You have just passed our first round of interview and you are interested in our project. This is awesome! Yet this is just the beginning 😉 We care a lot about our people and we do our best to make sure everyone joining the team is raising the bar.
+During your interviews rounds at Protagonist we evaluate your personal values, technical skills, team spirit, etc. Our goal is to hire people that are better than us! Yes you read this correctly! We want to make sure that every new hire is better than the rest of the team. Because this is the only way we as team can keep improving and learning from each other. Everyone in our team wants to keep building great stuff he can be proud of! Are you one of us? 🙂
 
 The goal of the test below is to evaluate your super pow...oups, sorry I mean your coding skills. Please show us how awesome you are.
+____
 
-Your coding test assignment and goals are:
+**Your coding test assignment and goals are:**
 
 1. Deploy this project to [graphcool](https://www.graph.cool/) and use it as your GraphQL endpoint
     * Feel Free to expand it with additional functionality
-    * Found a bug? Feel free to create [Pull Request](https://github.com/Yunoia/fe-developer-assignment/compare) - Bonus points are guaranteed ;)
+    * Found a bug? Feel free to create [Pull Request](https://github.com/Yunoia/fe-developer-assignment/compare) - Bonus points are guaranteed 😉 
     * You can find our example deployment [here](https://api.graph.cool/simple/v1/cjah9azoi0xja0149nl4uptls)
 2. Implement Single Page Application with next User Scenarios:
     * As a Guest I can view all posts with pagination
